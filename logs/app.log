@@ -1,0 +1,8 @@
+2025-11-07 15:19:30 INFO  LoggerDemo:10 - Application started...
+2025-11-07 15:19:30 WARN  LoggerDemo:12 - This is a warning!
+2025-11-07 15:19:30 ERROR LoggerDemo:13 - An error occurred!
+2025-11-07 15:19:30 FATAL LoggerDemo:14 - Fatal issue!
+2025-11-08 09:21:08 INFO  LoggerDemo:10 - Application started...
+2025-11-08 09:21:08 WARN  LoggerDemo:12 - This is a warning!
+2025-11-08 09:21:08 ERROR LoggerDemo:13 - An error occurred!
+2025-11-08 09:21:08 FATAL LoggerDemo:14 - Fatal issue!
